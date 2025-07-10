@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Vite/React build
+dist/
+build/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
